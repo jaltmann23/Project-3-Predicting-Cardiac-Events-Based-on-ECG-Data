@@ -44,3 +44,13 @@ Congestive heart failure is a serious cardiac condition that affects millions of
 **Features (X):** ecg1 and ecg2
 
 **Target (y):** Cardiac Events
+
+## Results
+
+**Accuracy:** 0.98
+
+**Precision:** 0.95
+
+**Recall:** 0.98
+
+**F1 Score:** 0.96
